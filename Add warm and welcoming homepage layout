@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Welcome to Mallybeez</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #fef8f4;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #8b0000;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    section {
+      padding: 2rem;
+      text-align: center;
+    }
+    section h2 {
+      color: #8b0000;
+    }
+    footer {
+      background-color: #eee;
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Welcome to Mallybeez Liquor & More</h1>
+    <p>Your cozy corner for great spirits, good vibes, and family love</p>
+  </header>
+
+  <section>
+    <h2>Our Story</h2>
+    <p>Mallybeez is more than just a liquor store — it's a family tradition. We take pride in offering a curated selection of wines, spirits, and craft drinks, always served with a smile and a sense of home.</p>
+  </section>
+
+  <section>
+    <h2>Visit Us</h2>
+    <p>Whether you're celebrating or just unwinding, drop by to find your perfect drink. We're here to help you make moments more memorable.</p>
+  </section>
+
+  <footer>
+    &copy; 2025 Mallybeez Liquor & More. All rights reserved.
+  </footer>
+</body>
+</html>
